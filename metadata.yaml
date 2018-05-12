@@ -1,0 +1,44 @@
+_repo: Acrobats-and-Mountebanks_45587
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Morton, A. P.
+    gutenberg_agent_id: '43370'
+    url: http://www.gutenberg.org/2009/agents/43370
+covers:
+- cover_type: archival
+  image_path: 45587-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Le Roux, Hugues
+    alias: Roux, Hugues le
+    birthdate: 1860
+    deathdate: 1925
+    gutenberg_agent_id: '40403'
+    url: http://www.gutenberg.org/2009/agents/40403
+    wikipedia: http://fr.wikipedia.org/wiki/Hugues_Le_Roux
+  - agent_name: Garnier, Jules
+    aliases:
+    - Garnier, Jules Arsène
+    - Garnier, Jules Arsene
+    birthdate: 1847
+    deathdate: 1889
+    gutenberg_agent_id: '43369'
+    url: http://www.gutenberg.org/2009/agents/43369
+description: ''
+gutenberg_issued: '2014-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45587'
+  lccn: 05029173
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acrobats'
+- !lcc 'GV'
+- !lcsh 'Acrobatics'
+- !lcsh 'Fairs'
+title: Acrobats and Mountebanks
+url: http://www.gutenberg.org/ebooks/45587
