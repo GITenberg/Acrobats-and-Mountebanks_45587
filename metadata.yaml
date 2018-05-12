@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43369'
     url: http://www.gutenberg.org/2009/agents/43369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45587#Acrobats-and-Mountebanks
 gutenberg_issued: '2014-05-05'
 gutenberg_type: Text
 identifiers:
